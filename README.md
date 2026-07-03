@@ -1,1 +1,2 @@
-# ToDo-List
+Mini python project 
+ToDo-List
